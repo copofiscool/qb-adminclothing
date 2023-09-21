@@ -16,6 +16,6 @@ With this configurable script u can go into admin clothes with the simple comman
 * Compatible with fivem-apperance and qb-clothing
 * Compatible with any item of clothing in the server
 
-![image|500x500](upload://ykRnPdpXP93hfvdkjkWea43cQRD.jpeg)
+![image|500x500](https://forum.cfx.re/uploads/default/optimized/4X/f/0/a/f0a5990144b8077aebac18bbcc17604fd28e9e9d_2_500x500.jpeg)
 
 
