@@ -5,7 +5,6 @@
 
 > Video : https://youtu.be/CYd8N_Ux8yY
 
-https://eclipse-scripts.tebex.io/package/5430125 
 
 Have decided to Release this for Free
 
